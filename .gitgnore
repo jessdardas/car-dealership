@@ -1,0 +1,26 @@
+# build artifacts
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
