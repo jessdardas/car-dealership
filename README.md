@@ -65,5 +65,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Created by Jessica Dardas
 Feel free to open issues or reach out with questions!
-
-```
